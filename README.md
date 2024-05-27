@@ -62,5 +62,5 @@ Input Data Peminjaman
 - Gunakan tombol _Merah_ (disebelah kanan nama peminjam) untuk mereset data peminjam lalu menggunakan tombol _biru_ kembali untuk menambahkan peminjam jika diperlukan
 - Tekan tombol _Hijau_ (sebelah kanan kode peminjaman) untuk menyimpan data peminjaman
 
-~ Developer : I Kadek Naryasa
-~ Contact : https://t.me/Chitos9
+- Developer : I Kadek Naryasa
+- Contact : https://t.me/Chitos9
