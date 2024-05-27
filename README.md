@@ -3,7 +3,7 @@
 Tentang sistem
 - Dibuat dengan bahasa pemrograman PHP (PHP native) tanpa framework
 - PHP yang digunakan adalah PHP versi 8.3.6, jika web server yang digunakan menggunakan versi php dibawah versi 8 kemungkinan akan ada beberapa eror yang muncul. (Disarankan upgrade ke versi 8 jika masih dibawah versi 8)
--Menggunakan database mysql
+- Menggunakan database mysql
 - Keamanan sistem hanya dengan autentikasi login (Rendah)
 - Menggunakan Bootsrap css
 - Dibuat sebagai bahan pembelajaran
