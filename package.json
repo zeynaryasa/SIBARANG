@@ -1,0 +1,16 @@
+{
+  "name": "sibarang",
+  "version": "1.0.0",
+  "description": "Tentang sistem\r ~ Dibuat dengan bahasa pemrograman PHP (PHP native) tanpa framework\r ~ Menggunakan database mysql\r ~ Keamanan sistem hanya dengan autentikasi login (Rendah)\r ~ Menggunakan Bootsrap css\r ~ Dibuat sebagai bahan pembelajaran\r ~ Fitur delete masih menggunakan method GET, kedepannya akan menggunakan POST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "I Kadek Naryasa",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
