@@ -41,8 +41,7 @@ CREATE TABLE peminjaman (
 CREATE TABLE detail_peminjaman (
     id_detail_peminjaman INT(10) PRIMARY KEY AUTO_INCREMENT,
     kode_peminjaman CHAR(12),
-    kode_barang CHAR(6),
-    tgl DATE,
+    kode_barang CHAR(6)
     FOREIGN KEY (kode_peminjaman) REFERENCES peminjaman (kode_peminjaman) ON DELETE CASCADE ON UPDATE CASCADE,
     FOREIGN KEY (kode_barang) REFERENCES barang(kode_barang) ON DELETE CASCADE ON UPDATE CASCADE
 );
