@@ -34,6 +34,7 @@ CREATE TABLE peminjaman (
     id_admin CHAR(10),
     id_karyawan CHAR(10),
     status VARCHAR(25),
+    tgl_peminjaman
     FOREIGN KEY (id_admin) REFERENCES admin(id_admin) ON DELETE CASCADE ON UPDATE CASCADE,
     FOREIGN KEY (id_karyawan) REFERENCES karyawan(id_karyawan) ON DELETE CASCADE ON UPDATE CASCADE
 );
